@@ -1,1 +1,1 @@
-# In this project, I am going to use openai to create Q&A chatbot
+# In this project, I am going to use openai to create Q&A chatbot< this also contain the openai apis>
