@@ -7,10 +7,10 @@ This repository contains code for a Q&A chatbot powered by OpenAI's language mod
 ## Installation
 To run this code, you need to install the necessary dependencies. You can do this using pip:
 
-
 ```
 pip install -r requirements.txt
 ```
+
 ## Usage
 To use the Q&A chatbot, follow these steps:
 
@@ -34,8 +34,7 @@ The Q&A chatbot works by utilizing OpenAI's language model to process user input
 - Initializing Streamlit Application: The Streamlit application is initialized, and its page configuration is set.
 
 - User Interaction: Users input their questions in a text input field, and a button allows them to submit the question.
-- 
-Displaying Responses: Once the user submits the question, the chatbot generates a response based on the input and displays it.
+- Displaying Responses: Once the user submits the question, the chatbot generates a response based on the input and displays it.
 
 # Conclusion
 
